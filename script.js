@@ -81,7 +81,7 @@ function viewHome(){
         </div>
         <div class="field">
           <label>Max budget (NPR)</label>
-          <input id="searchBudget" type="text" placeholder="e.g. 3,00,00,000">
+          <input id="searchBudget" type="text" placeholder="e.g. 10,00,00,000">
         </div>
         <div class="field" style="justify-content:flex-end;">
           <button class="btn btn-primary" style="height:44px;" onclick="runHeroSearch()">Search</button>
